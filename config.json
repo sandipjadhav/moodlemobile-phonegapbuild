@@ -11,7 +11,6 @@
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "presets" : {"url": "http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php", "username": "admin"},
-    "siteurl": "http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
