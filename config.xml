@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.mymarcellin.moodlemobile"
         versionCode = "20170"
         version   = "3.2.1">
-    <name>Moodle Mobile</name>
+    <name>MyMarcellin Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        MyMarcellin Mobile allows our community to connect to myMarcellin via our branded app.
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="marcellin.vic.edu.au" email="info@marcellin.vic.edu.au">
         Moodle Pty Ltd
     </author>
 
