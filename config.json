@@ -10,7 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "presets" : {"url": "http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php", "username": "admin"},
+    "presets" : {"url": "http://school.demo.moodle.net/login/index.php", "username": "student"},
+    "site_url" : "http://school.demo.moodle.net/login/index.php"
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
