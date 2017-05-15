@@ -11,7 +11,7 @@
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "presets" : {"url": "http://school.demo.moodle.net/login/index.php", "username": "student"},
-    "site_url" : "http://school.demo.moodle.net/login/index.php"
+    "siteurl" : "http://school.demo.moodle.net/login/index.php"
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
