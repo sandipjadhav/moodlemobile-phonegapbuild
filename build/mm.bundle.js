@@ -10845,7 +10845,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/site.html',
         controller: 'mmLoginSiteCtrl',
         params: {
-            siteurl: 'http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php',
+            siteurl: '',
             username: 'admin'
         }
     })
@@ -10854,7 +10854,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: 'http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php',
+            siteurl: '',
             username: 'admin',
             urltoopen: '',
             siteconfig: null
@@ -10871,7 +10871,7 @@ angular.module('mm.core.login', [])
         controller: 'mmLoginReconnectCtrl',
         cache: false,
         params: {
-            siteurl: 'http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php',
+            siteurl: '',
             username: 'admin',
             infositeurl: '',
             siteid: '',
@@ -10885,7 +10885,7 @@ angular.module('mm.core.login', [])
         controller: 'mmLoginEmailSignupCtrl',
         cache: false,
         params: {
-            siteurl: 'http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php'
+            siteurl: ''
         }
     })
     .state('mm_login.sitepolicy', {
