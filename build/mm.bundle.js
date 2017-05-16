@@ -51899,7 +51899,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php",
+    "siteurl": "http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
