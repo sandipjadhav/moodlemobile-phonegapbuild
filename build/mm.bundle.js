@@ -10843,7 +10843,11 @@ angular.module('mm.core.login', [])
     .state('mm_login.site', {
         url: '/site',
         templateUrl: 'core/components/login/templates/site.html',
-        controller: 'mmLoginSiteCtrl'
+        controller: 'mmLoginSiteCtrl',
+        params: {
+            siteurl: 'http://ec2-54-202-80-182.us-west-2.compute.amazonaws.com/moodledemo/moodle/login/index.php',
+            username: 'admin'
+        }
     })
     .state('mm_login.credentials', {
         url: '/cred',
